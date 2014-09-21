@@ -1,0 +1,12 @@
+{
+  "name": "bug",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server -d --inline --hot --progress --colors"
+  },
+  "devDependencies": {
+    "css-loader": "~0.8.0",
+    "style-loader": "~0.8.0",
+    "webpack": "~1.4.1-beta1",
+    "webpack-dev-server": "~1.6.5"
+  }
+}
